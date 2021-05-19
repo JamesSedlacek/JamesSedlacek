@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Sedlacek
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Push Notifications with Firebase & Java
+- 🌱 I’m currently preparing for iOS interviews
 - 💞️ I’m looking to work on a challenging project with an amazing team
 - 📫 How to reach me: JamesSedlacek.GitHub.io
 
