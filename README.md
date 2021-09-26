@@ -5,7 +5,7 @@
 
 <h2 align="center">iOS Portfolio</h2>
 <div align="center">
-  <a href="https://github.com/JamesSedlacek/iOS-Portfolio">
+  <a href="https://JamesSedlacek.github.io">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/view_on_github.png" height=100 width=258> 
   </a>
  </div><br>
