@@ -3,6 +3,8 @@
 
 </br>
 
+
+
 <h2 align="center">iOS Portfolio</h2>
 <div align="center">
   <a href="https://JamesSedlacek.github.io">
@@ -32,4 +34,8 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jamessedlacekjr/
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jamessedlacek.jamessedlacek)
+
 </div>
