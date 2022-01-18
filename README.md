@@ -1,18 +1,9 @@
 <div align="center">
 <h1>James Sedlacek</h1>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jamessedlacek.jamessedlacek)
+  
 </br>
-
-
-
-<h2 align="center">iOS Portfolio</h2>
-<div align="center">
-  <a href="https://JamesSedlacek.github.io">
-    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/view_on_github.png" height=100 width=258> 
-  </a>
- </div><br>
-
-
 
 ## Github Stats
 
@@ -31,13 +22,26 @@
 
 </br>
 
-## Connect with Me:
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/jamessedlacekjr/
-<br>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jamessedlacek.jamessedlacek)
-
 </div>
+
+<div align="left">
+
+## Highlights
+  
+- 3 Apps published to the App Store
+- 3 Upwork Contracts completed
+- 25+ Hours tutored in Swift
+- 1 iOS Framework published using CocoaPods
+
+ </div><br>
+
+<div align="left">
+  
+## Links
+
+- Checkout on my [Portfolio Website](https://JamesSedlacek.github.io)
+- I do iOS freelancing on [Upwork](https://www.UpWork.com/freelancers/~01bed510a74b1a74dc)
+- I'm a Swift Tutor on [Wyzant](https://www.wyzant.com/match/tutor/88788497)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jamessedlacekjr/)
+
+ </div><br>
