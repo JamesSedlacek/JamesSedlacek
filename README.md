@@ -20,5 +20,6 @@
 - 1 iOS Framework published using [CocoaPods](https://github.com/JamesSedlacek/SwiftyStepper)
 - Built my own [Portfolio Website](https://JamesSedlacek.github.io)
 - 1200+ Followers on [LinkedIn](https://www.linkedin.com/in/jamessedlacekjr/)
+- 2 Videos posted on [YouTube](https://www.youtube.com/channel/UC3lfiHwxuhfvtXXYx5iXCAg)
 
  </div><br>
