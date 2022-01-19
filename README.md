@@ -17,7 +17,7 @@
 - 3 Apps published to the [App Store](https://apps.apple.com/us/developer/james-sedlacek/id1539189845)
 - 3 [Upwork](https://www.UpWork.com/freelancers/~01bed510a74b1a74dc) Contracts completed
 - 25+ Hours tutored in Swift on [Wyzant](https://www.wyzant.com/match/tutor/88788497)
-- 1 iOS Framework published using [CocoaPods](https://github.com/JamesSedlacek/SwiftyStepper)
+- 2 iOS Framework published using [CocoaPods](https://github.com/JamesSedlacek/SwiftyStepper)
 - Built my own [Portfolio Website](https://JamesSedlacek.github.io)
 - 1200+ Followers on [LinkedIn](https://www.linkedin.com/in/jamessedlacekjr/)
 - 2 Videos posted on [YouTube](https://www.youtube.com/channel/UC3lfiHwxuhfvtXXYx5iXCAg)
