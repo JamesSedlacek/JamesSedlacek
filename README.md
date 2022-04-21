@@ -19,7 +19,7 @@
 - 26 Hours tutored in Swift on [Wyzant](https://www.wyzant.com/match/tutor/88788497)
 - 2 iOS Framework published using [CocoaPods](https://github.com/JamesSedlacek/SwiftyStepper)
 - Built my own [Portfolio Website](https://JamesSedlacek.github.io)
-- 1800+ Followers on [LinkedIn](https://www.linkedin.com/in/jamessedlacekjr/)
+- 2000+ Followers on [LinkedIn](https://www.linkedin.com/in/jamessedlacekjr/)
 - 2 Videos posted on [YouTube](https://www.youtube.com/channel/UC3lfiHwxuhfvtXXYx5iXCAg)
 
  </div><br>
