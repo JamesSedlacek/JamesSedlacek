@@ -19,7 +19,12 @@
 - 26 Hours tutored in Swift on [Wyzant](https://www.wyzant.com/match/tutor/88788497)
 - 2 iOS Framework published using [CocoaPods](https://github.com/JamesSedlacek/SwiftyStepper)
 - Built my own [Portfolio Website](https://JamesSedlacek.github.io)
-- 2500+ Followers on [LinkedIn](https://www.linkedin.com/in/jamessedlacekjr/)
-- 2 Videos posted on [YouTube](https://www.youtube.com/channel/UC3lfiHwxuhfvtXXYx5iXCAg)
 
+## YouTube Videos
+- iOS Interview Questions and Answers | [Classes vs. Structs](https://www.youtube.com/watch?v=im4FKxqrj5c)
+- iOS Interview Questions and Answers | [ARC, Retain Cycles, & Memory Leaks](https://www.youtube.com/watch?v=kkJu0EbIvYg&t=4s)
+
+## Connect with me
+<a href="https://www.linkedin.com/in/jamessedlacekjr/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/jsedlacekjr" <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjsedlacekjr"></a>
  </div><br>
