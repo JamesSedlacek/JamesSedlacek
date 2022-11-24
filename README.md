@@ -9,13 +9,12 @@
 
 <div align="left">
 
-## Highlights
+## What am I working on?
   
-- 3 Apps published to the [App Store](https://apps.apple.com/us/developer/james-sedlacek/id1539189845)
-- 4 [Upwork](https://www.UpWork.com/freelancers/~01bed510a74b1a74dc) Contracts completed
-- 26 Hours tutored in Swift on [Wyzant](https://www.wyzant.com/match/tutor/88788497)
-- 2 iOS Framework published using [CocoaPods](https://github.com/JamesSedlacek/SwiftyStepper)
-- Built my own [Portfolio Website](https://JamesSedlacek.github.io)
+- SwiftUI side-project (CoreData + CloudKit for data persistence)
+- Learning more iOS Stuff through Udemy Courses by AzamSharp
+- Learning more UI\UX Design through Udemy Courses
+- Working at Method as a Software Engineer Consultant (iOS SDK project)
 
 ## YouTube Videos
 <a href="https://www.youtube.com/watch?v=im4FKxqrj5c"><img src="https://img.shields.io/youtube/views/im4FKxqrj5c?style=social"></a> &emsp; iOS Interview Questions and Answers | [Classes vs. Structs](https://www.youtube.com/watch?v=im4FKxqrj5c) <br>
