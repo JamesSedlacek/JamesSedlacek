@@ -11,9 +11,8 @@
 
 ## What am I working on?
   
-- SwiftUI side-project (CoreData + CloudKit for data persistence)
-- Learning more iOS Stuff through Udemy Courses by AzamSharp
-- Learning more UI\UX Design through Udemy Courses
+- SwiftUI side-project | https://MyTradingJournal.app
+- Learning more iOS development & UI\UX Design through Udemy Courses
 - Working at Method as a Software Engineer Consultant (iOS SDK project)
 
 ## YouTube Videos
