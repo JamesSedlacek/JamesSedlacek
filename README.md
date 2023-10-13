@@ -12,8 +12,7 @@
 ## What am I working on?
   
 - SwiftUI side-project | https://MyTradingJournal.app
-- Learning more iOS development & UI\UX Design through Udemy Courses
-- Working at Method as a Software Engineer Consultant (iOS SDK project)
+- Working at Peloton as a Software Engineer
 
 ## YouTube Videos
 <a href="https://www.youtube.com/watch?v=im4FKxqrj5c"><img src="https://img.shields.io/youtube/views/im4FKxqrj5c?style=social"></a> &emsp; iOS Interview Questions and Answers | [Classes vs. Structs](https://www.youtube.com/watch?v=im4FKxqrj5c) <br>
