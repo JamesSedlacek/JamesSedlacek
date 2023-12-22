@@ -13,6 +13,7 @@
   
 - SwiftUI side-project | https://MyTradingJournal.app
 - Working at Peloton as a Software Engineer
+- Building in public & open sourcing Swift Packages
 
 ## YouTube Videos
 <a href="https://www.youtube.com/watch?v=im4FKxqrj5c"><img src="https://img.shields.io/youtube/views/im4FKxqrj5c?style=social"></a> &emsp; iOS Interview Questions and Answers | [Classes vs. Structs](https://www.youtube.com/watch?v=im4FKxqrj5c) <br>
@@ -23,5 +24,3 @@
 <a href="https://twitter.com/jsedlacekjr"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjsedlacekjr"></a>
   <a href="https://www.youtube.com/channel/UC3lfiHwxuhfvtXXYx5iXCAg"><img src="https://img.shields.io/youtube/channel/subscribers/UC3lfiHwxuhfvtXXYx5iXCAg?style=social"></a>
  </div><br>
- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jamessedlacek.jamessedlacek)
