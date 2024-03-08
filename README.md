@@ -7,8 +7,8 @@
 ## What am I working on?
   
 - SwiftUI side-project | https://MyTradingJournal.app
-- Working at Peloton Interactive as a SwiftUI MacOS Software Engineer
-- Building in public & open sourcing Swift Packages
+- Working at Peloton Interactive as a Software Engineer, working on an internal SwiftUI MacOS application
+- Building in public & open sourcing Swift Packages + Projects
 
 ## My SwiftUI Packages & Projects
 
