@@ -17,6 +17,7 @@
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/Routing?style=social) | [Routing](https://github.com/JamesSedlacek/Routing) | SwiftUI library for abstracting navigation logic from views |<br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/OnboardingKit?style=social) | [OnboardingKit](https://github.com/JamesSedlacek/OnboardingKit) | SwiftUI library for handling onboarding | <br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/DependencyInjectable?style=social) | [DependencyInjectable](https://github.com/JamesSedlacek/DependencyInjectable) | Lightweight SwiftUI Dependency Injection Library | <br>
+| ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/SwiftDataStorage?style=social) | [SwiftDataStorage](https://github.com/JamesSedlacek/SwiftDataStorage) | SwiftData Property Wrapper | <br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/PaywallDemo?style=social) | [PaywallDemo](https://github.com/JamesSedlacek/PaywallDemo) | SwiftUI Subscription Paywall | <br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/LocalAuthenticationKit?style=social) | [LocalAuthenticationKit](https://github.com/JamesSedlacek/LocalAuthenticationKit) | SwiftUI library for handling local authentication | <br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/Presenting?style=social) | [Presenting](https://github.com/JamesSedlacek/Presenting) | SwiftUI library for abstracting logic from views | <br>
@@ -27,7 +28,6 @@
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/InfiniteScroller?style=social) | [InfiniteScroller](https://github.com/JamesSedlacek/InfiniteScroller) | SwiftUI Animation for Scrolling a View | <br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/CurrencyProviding?style=social) | [CurrencyProviding](https://github.com/JamesSedlacek/CurrencyProviding) | SwiftUI library for handling currency selection | <br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/RatioBarChart?style=social) | [RatioBarChart](https://github.com/JamesSedlacek/RatioBarChart) | SwiftUI Component for displaying a ratio in a bar chart | <br>
-| ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/SwiftDataStorage?style=social) | [SwiftDataStorage](https://github.com/JamesSedlacek/SwiftDataStorage) | SwiftData Property Wrapper | <br>
 
 ## My Old UIKit Projects 
 
