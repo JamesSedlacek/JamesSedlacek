@@ -27,6 +27,7 @@
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/InfiniteScroller?style=social) | [InfiniteScroller](https://github.com/JamesSedlacek/InfiniteScroller) | SwiftUI Animation for Scrolling a View | <br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/CurrencyProviding?style=social) | [CurrencyProviding](https://github.com/JamesSedlacek/CurrencyProviding) | SwiftUI library for handling currency selection | <br>
 | ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/RatioBarChart?style=social) | [RatioBarChart](https://github.com/JamesSedlacek/RatioBarChart) | SwiftUI Component for displaying a ratio in a bar chart | <br>
+| ![GitHub stars](https://img.shields.io/github/stars/JamesSedlacek/SwiftDataStorage?style=social) | [SwiftDataStorage](https://github.com/JamesSedlacek/SwiftDataStorage) | SwiftData Property Wrapper | <br>
 
 ## My Old UIKit Projects 
 
