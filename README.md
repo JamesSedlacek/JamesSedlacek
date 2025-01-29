@@ -15,3 +15,7 @@
 - [OnboardingKit](https://github.com/JamesSedlacek/OnboardingKit) SwiftUI library for handling onboarding
 - [Toast](https://github.com/Sedlacek-Solutions/Toast) Lightweight SwiftUI Library for displaying toast messages
 
+## Gists
+
+- [View+OpenUrl](https://gist.github.com/JamesSedlacek/c1d215bab0610b3d2c2aea062de5e565) This file provides a safe way to open URLs in SwiftUI applications.
+- [KeyboardToolbar](https://gist.github.com/JamesSedlacek/2d0425319e2a854da8c51f4b05c9842a) SwiftUI Keyboard Toolbar Workaround.
