@@ -17,5 +17,6 @@
 
 ## Gists
 
+- [Persisting](https://gist.github.com/JamesSedlacek/8163d98a17308ed6b776f4c8a35ca523) A property wrapper that manages the persistence of Codable types using UserDefaults.
 - [View+OpenUrl](https://gist.github.com/JamesSedlacek/c1d215bab0610b3d2c2aea062de5e565) This file provides a safe way to open URLs in SwiftUI applications.
 - [KeyboardToolbar](https://gist.github.com/JamesSedlacek/2d0425319e2a854da8c51f4b05c9842a) SwiftUI Keyboard Toolbar Workaround.
