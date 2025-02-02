@@ -13,7 +13,8 @@
 
 - [Routing](https://github.com/JamesSedlacek/Routing) SwiftUI library for abstracting navigation logic from views
 - [OnboardingKit](https://github.com/JamesSedlacek/OnboardingKit) SwiftUI library for handling onboarding
-- [Toast](https://github.com/Sedlacek-Solutions/Toast) Lightweight SwiftUI Library for displaying toast messages
+- [Toast](https://github.com/Sedlacek-Solutions/Toast) SwiftUI library for displaying toast messages
+- [SurveyKit](https://github.com/Sedlacek-Solutions/SurveyKit) SwiftUI library for creating user surveys
 
 ## Gists
 
