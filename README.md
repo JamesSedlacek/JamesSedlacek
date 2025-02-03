@@ -15,6 +15,7 @@
 - [OnboardingKit](https://github.com/JamesSedlacek/OnboardingKit) SwiftUI library for handling onboarding
 - [Toast](https://github.com/Sedlacek-Solutions/Toast) SwiftUI library for displaying toast messages
 - [SurveyKit](https://github.com/Sedlacek-Solutions/SurveyKit) SwiftUI library for creating user surveys
+- [ProgressTabView](https://github.com/Sedlacek-Solutions/ProgressTabView) SwiftUI library that provides a custom tab view with progress tracking functionality
 
 ## Gists
 
