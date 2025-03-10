@@ -1,8 +1,5 @@
 <div align="center">
 <h1>James Sedlacek Jr.</h1>
-
-![Total Stars](https://github-readme-stats.vercel.app/api?username=JamesSedlacek&show_icons=true&hide=contribs&count_private=true&include_all_commits=true)
-
 </div>
 
 <div align="left">
