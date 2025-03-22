@@ -20,6 +20,7 @@
 | [ProgressTabView](https://github.com/Sedlacek-Solutions/ProgressTabView) | SwiftUI library that provides a custom tab view with progress tracking functionality | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/ProgressTabView?style=social) |
 | [Scrumdinger](https://github.com/JamesSedlacek/Scrumdinger) | A rebuild of Apple’s “Scrumdinger” application using modern, best practices for SwiftUI development. | ![GitHub Repo stars](https://img.shields.io/github/stars/JamesSedlacek/Scrumdinger?style=social) |
 | [RatingsKit](https://github.com/Sedlacek-Solutions/RatingsKit) | SwiftUI library for displaying a ratings request screen | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/RatingsKit?style=social) |
+| [SFSymbolKit](https://github.com/Sedlacek-Solutions/SFSymbolKit) | SwiftUI library for type-safe SFSymbols | ![GitHub Repo stars](https://img.shields.io/github/stars/Sedlacek-Solutions/SFSymbolKit?style=social) |
 
 
 
